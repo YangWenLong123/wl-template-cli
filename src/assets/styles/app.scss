@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  height: 100vh;
+}
+
+/* 菜单栏背景色 */
+.ant-layout-sider {
+  background: #ffffff !important;
+}
+
+#nprogress .bar {
+  background: #67C23A !important;
+  height: 4px !important;
+}
